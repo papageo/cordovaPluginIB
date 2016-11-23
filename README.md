@@ -13,7 +13,7 @@ Create a new Cordova Project
 Install the plugin
 
     $ cd hello
-    $ cordova plugin add https://github.com/papageo/cordovaPluginIB
+    $ cordova plugin add https://github.com/papageo/cordovaPluginIB.git
     
 
 Edit `www/js/index.js` and add the following code inside `onDeviceReady`
