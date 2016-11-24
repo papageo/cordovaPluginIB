@@ -6,7 +6,7 @@
   <name>Hello</name>
 
   <engines>
-    <engine name="cordova" version=">=3.4.0"/>
+    <engine name="cordova" version=">=6.4.0"/>
   </engines>
 
   <asset src="www/hello.js" target="js/hello.js"/>
